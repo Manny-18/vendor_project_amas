@@ -1,0 +1,1 @@
+# vendor_project_amas
